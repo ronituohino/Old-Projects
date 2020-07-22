@@ -14,18 +14,22 @@ public class FruitOptimizer : Singleton<FruitOptimizer>
         //Check if fruits are on the floor and remove them
         for (int i = 0; i < count; i++)
         {
-            Rigidbody r = followedFruits[i].rb;
-            if (r.centerOfMass.y < FruitHandler.Instance.floorPlane.transform.position.y)
+            try
             {
-                //Apply some cool material that goes like fades away or something
-                GameObject obj = followedFruits[i].obj;
-                obj.transform.parent = SlicingScript.Instance.destroyParent.transform;
-                RemoveFromMovingFruits(obj);
-                followedFruits.RemoveAt(i);
+                Rigidbody r = followedFruits[i].rb;
+                if (r.centerOfMass.y < FruitHandler.Instance.floorPlane.transform.position.y)
+                {
+                    //Apply some cool material that goes like fades away or something
+                    GameObject obj = followedFruits[i].obj;
+                    obj.transform.parent = SlicingScript.Instance.destroyParent.transform;
+                    RemoveFromMovingFruits(obj);
+                    followedFruits.RemoveAt(i);
 
-                Destroy(obj);
-                break;
+                    Destroy(obj);
+                    break;
+                }
             }
+            catch (System.Exception) { }
         }
     }
 

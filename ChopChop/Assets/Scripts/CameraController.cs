@@ -124,6 +124,13 @@ public class CameraController : Singleton<CameraController>
                 }
             }
 
+        } 
+        else //Camera wasn't moved
+        {
+            if(cuttingMode)
+            {
+                Knife.Instance.ableToCut = true;
+            }
         }
 
         if (resetLastCameraMovement)
@@ -135,6 +142,7 @@ public class CameraController : Singleton<CameraController>
 
     void FallLeft()
     {
+        Debug.Log("l");
         cameraSlideValue += cameraFallSpeed;
 
         if (cameraSlideValue > 1f)
@@ -163,6 +171,7 @@ public class CameraController : Singleton<CameraController>
 
     void FallRight()
     {
+        Debug.Log("r");
         cameraSlideValue -= cameraFallSpeed;
 
         if (cameraSlideValue < 0f)

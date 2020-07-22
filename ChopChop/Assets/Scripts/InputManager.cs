@@ -17,7 +17,6 @@ public class InputManager : Singleton<InputManager>
     {
         if (!PlatformDetection.Instance.onMobile) //PC controls
         {
-            Debug.Log("?");
             if (Input.GetMouseButtonDown(0))
             {
                 touchTimes[0] = Time.unscaledTime;
@@ -73,7 +72,6 @@ public class InputManager : Singleton<InputManager>
                         break;
                     }
 
-
                     Touch t = Input.touches[i];
                     int touchIndex = t.fingerId;
 
@@ -85,6 +83,7 @@ public class InputManager : Singleton<InputManager>
                         case TouchPhase.Moved:
                             Vector2 deltaPos = t.deltaPosition;
 
+                            //Yikes I used a 'goto' here for some reason back then, that's pretty bad
                         A:
                             if (draggingFingerId == -1)
                             {
