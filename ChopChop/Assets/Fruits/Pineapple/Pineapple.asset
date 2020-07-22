@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e27cacf05dd0148b09f46ba2269d43, type: 3}
+  m_Name: Pineapple
+  m_EditorClassIdentifier: Assembly-CSharp::FruitHandler/Fruit
+  prefab: {fileID: 2450424438138093576, guid: bfcf9264135f12c45b11f2be0de09fd7, type: 3}
+  fruitInnerMaterial: {fileID: 2100000, guid: 5d88c96e985ffc94e8325e1814eeb5b4, type: 2}
+  fruitSubStuff:
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  - subMaterial: {fileID: 2100000, guid: 581c36f4a832a9543af0148d1bb1accc, type: 2}
+    external: 1
+    extendFaces: 0
+  id: 12

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e27cacf05dd0148b09f46ba2269d43, type: 3}
+  m_Name: Pear
+  m_EditorClassIdentifier: Assembly-CSharp::FruitHandler/Fruit
+  prefab: {fileID: 7062164134154737252, guid: 7e68113a25db8e348a00d885eddd5871, type: 3}
+  fruitInnerMaterial: {fileID: 2100000, guid: 0533d9c85d3c01f49b1a5e1d16d9819f, type: 2}
+  fruitSubStuff:
+  - subMaterial: {fileID: 2100000, guid: 29e5398fe5b837342b9e73302afa3482, type: 2}
+    external: 1
+    extendFaces: 0
+  id: 9

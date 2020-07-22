@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e27cacf05dd0148b09f46ba2269d43, type: 3}
+  m_Name: Lime
+  m_EditorClassIdentifier: Assembly-CSharp::FruitHandler/Fruit
+  prefab: {fileID: 5422970162631754435, guid: c3276d6f1bedeef4d80f375a43940ddd, type: 3}
+  fruitInnerMaterial: {fileID: 2100000, guid: be6132cb58fc8c84a948cc4665ceb7d6, type: 2}
+  fruitSubStuff: []
+  id: 7

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e27cacf05dd0148b09f46ba2269d43, type: 3}
+  m_Name: Avocado
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5325229610567524312, guid: 7249fd7372325db4c91cd2ca92dd74db, type: 3}
+  fruitInnerMaterial: {fileID: 2100000, guid: 4a9ed0cb66aab8c4e842443766328a19, type: 2}
+  fruitSubStuff:
+  - subMaterial: {fileID: 2100000, guid: 83f814f7202db8e45a28ea5e32626cd3, type: 2}
+    external: 0
+    extendFaces: 1
+  id: 1

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e27cacf05dd0148b09f46ba2269d43, type: 3}
+  m_Name: Kiwi
+  m_EditorClassIdentifier: Assembly-CSharp::FruitHandler/Fruit
+  prefab: {fileID: 6774066254829572977, guid: 9cef4e7350269904db356c5b67a8c815, type: 3}
+  fruitInnerMaterial: {fileID: 2100000, guid: 2cadad2b801af6d4d88562388c3ab2b5, type: 2}
+  fruitSubStuff: []
+  id: 5

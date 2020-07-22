@@ -1,0 +1,42 @@
+---MODEL SETTINGS---
+
+-Model the main fruit
+	-Remember to name the mesh and save it into the corresponding folder
+-Unwrap the main fruit UV's
+
+---EDITOR SETTINGS---
+
+-In the editor, check Read/Write enabled
+-Make materials for each material in the editor
+-Do not import animations and also make the animation type to None
+
+---TEXTURING---
+
+-Make a material called *FRUITNAME*Inner
+-Set the inner texture to the Base Map slot and set the color to white
+
+---PREFAB---
+
+-Assemble the final prefab of the fruit and remember to add Rigidbodies and MeshColliders
+
+--SPAWNING---
+
+-Create a Fruit Spawn Data
+-Check ID from FruitID.txt
+-For each subfruit the fruit contains add them to Fruit Sub Stuff
+
+---SUBFRUITS---
+
+-If the fruit has any extensions or specific inner parts:
+
+	-Model the subfruit as a separate model
+	-Unwrap UV's for each subfruit
+
+	-In the editor make the same settings as for the main fruit
+
+	-REMEMBER TO SET THE TAG TO SUBFRUIT IN THE PREFAB
+
+
+
+
+

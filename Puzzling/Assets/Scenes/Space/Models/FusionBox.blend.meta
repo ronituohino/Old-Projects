@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: ef2d02e3aa9050e4781f261ada5c3694
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Box
+    100004: Container
+    100006: CoolantPipe1
+    100008: CoolrantPipe2
+    100010: Cylinder
+    100012: Cylinder_001
+    100014: //RootNode
+    100016: Glass
+    100018: LeftInner
+    100020: LeftOuter
+    100022: RightInner
+    100024: RightOuter
+    100026: Stands
+    100028: Support
+    100030: Switch
+    100032: SwitchBase
+    100034: Cube
+    100036: Cube_001
+    100038: Cube_002
+    100040: Ext1
+    100042: Ext2
+    100044: Ext3
+    100046: SocketBlue
+    100048: SocketGreen
+    100050: Sockets
+    100052: BaseLight
+    400000: Base
+    400002: Box
+    400004: Container
+    400006: CoolantPipe1
+    400008: CoolrantPipe2
+    400010: Cylinder
+    400012: Cylinder_001
+    400014: //RootNode
+    400016: Glass
+    400018: LeftInner
+    400020: LeftOuter
+    400022: RightInner
+    400024: RightOuter
+    400026: Stands
+    400028: Support
+    400030: Switch
+    400032: SwitchBase
+    400034: Cube
+    400036: Cube_001
+    400038: Cube_002
+    400040: Ext1
+    400042: Ext2
+    400044: Ext3
+    400046: SocketBlue
+    400048: SocketGreen
+    400050: Sockets
+    400052: BaseLight
+    2100000: unnamed
+    2100002: Material
+    2100004: Container
+    2100006: Bottom
+    2100008: Light
+    2100010: Tubing
+    2100012: Base
+    2100014: BaseLight
+    2100016: Box
+    2100018: Glass
+    2100020: Blue
+    2100022: Green
+    2300000: Base
+    2300002: Box
+    2300004: Container
+    2300006: CoolantPipe1
+    2300008: CoolrantPipe2
+    2300010: Cylinder
+    2300012: Cylinder_001
+    2300014: Glass
+    2300016: LeftInner
+    2300018: LeftOuter
+    2300020: RightInner
+    2300022: RightOuter
+    2300024: Stands
+    2300026: Support
+    2300028: Switch
+    2300030: SwitchBase
+    2300032: Cube
+    2300034: Cube_001
+    2300036: Cube_002
+    2300038: Ext1
+    2300040: Ext2
+    2300042: Ext3
+    2300044: SocketBlue
+    2300046: SocketGreen
+    2300048: Sockets
+    2300050: BaseLight
+    3300000: Base
+    3300002: Box
+    3300004: Container
+    3300006: CoolantPipe1
+    3300008: CoolrantPipe2
+    3300010: Cylinder
+    3300012: Cylinder_001
+    3300014: Glass
+    3300016: LeftInner
+    3300018: LeftOuter
+    3300020: RightInner
+    3300022: RightOuter
+    3300024: Stands
+    3300026: Support
+    3300028: Switch
+    3300030: SwitchBase
+    3300032: Cube
+    3300034: Cube_001
+    3300036: Cube_002
+    3300038: Ext1
+    3300040: Ext2
+    3300042: Ext3
+    3300044: SocketBlue
+    3300046: SocketGreen
+    3300048: Sockets
+    3300050: BaseLight
+    4300000: CoolrantPipe2
+    4300002: CoolantPipe1
+    4300004: Switch
+    4300006: SwitchBase
+    4300008: Support
+    4300010: Stands
+    4300012: Base
+    4300014: RightInner
+    4300016: LeftInner
+    4300018: RightOuter
+    4300020: LeftOuter
+    4300022: Glass
+    4300024: Box
+    4300026: Container
+    4300028: Cylinder
+    4300030: Cylinder_001
+    4300032: Cube
+    4300034: Cube_001
+    4300036: Cube_002
+    4300038: Ext3
+    4300040: Ext1
+    4300042: Ext2
+    4300044: SocketBlue
+    4300046: SocketGreen
+    4300048: Sockets
+    4300050: BaseLight
+    7400000: Open
+    7400002: Close
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 9a97184324b3a5549a46295739f2074a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseLight
+    second: {fileID: 2100000, guid: 0cb20a3fb0c8e224a92812c6d27713a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: 928048b828451ec4ebdc52e7cf78a639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box
+    second: {fileID: 2100000, guid: 10138cb0d4c452c47a8d1b784b5b8b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: e88ff650226375c4d92112065e5d8628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 342d20d72f1f45e49b04cfe6136f2d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tubing
+    second: {fileID: 2100000, guid: 9a97184324b3a5549a46295739f2074a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 9a97184324b3a5549a46295739f2074a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Open
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Close
+      takeName: Default Take
+      firstFrame: 100
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1.25
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

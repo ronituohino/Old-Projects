@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3c2c83281b7a87418c6c37bbe2d118a, type: 3}
+  m_Name: Human
+  m_EditorClassIdentifier: 
+  minorWoundInitialDamage: {x: 0.02, y: 0.05}
+  severeWoundInitialDamage: {x: 0.05, y: 0.1}
+  extremeWoundInitialDamage: {x: 0.1, y: 0.2}
+  limbInitialDamageMultipliers:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  minorWoundBleed: {x: 0.001, y: 0.002}
+  severeWoundBleed: {x: 0.002, y: 0.005}
+  extremeWoundBleed: {x: 0.005, y: 0.01}
+  limbHealthBleedMultipliers:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  minorWoundRegenerate: {x: 0.004, y: 0.005}
+  severeWoundRegenerate: {x: 0.002, y: 0.004}
+  extremeWoundRegenerate: {x: 0.001, y: 0.002}
+  severitySway: 0.15
+  severeWoundThreshold: 0.4
+  extremeWoundThreshold: 0.75

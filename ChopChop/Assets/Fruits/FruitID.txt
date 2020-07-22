@@ -1,0 +1,13 @@
+Apple: 		0
+Avocado:	1
+Banana: 	2
+Cherry:		3
+Coconut:	4
+Kiwi:		5
+Lemon:		6
+Lime:		7
+Orange:		8
+Pear:		9
+Strawberry:	10	
+Watermelon:	11
+Pineapple:	12  
