@@ -14,7 +14,7 @@ After realizing this, and not wanting to create a fluid simulation system from s
 ## ChopChop
 A mobile game project, about making fruit bowls :D 
 
- ![chopchopimage](/ChopChop/chopchop4.png)  ![choppingaction](/ChopChop/chopping2.gif)
+ ![chopchopimage](/ChopChop/chopchop.png)  ![choppingaction](/ChopChop/chopping.gif)
 
 
 ## Puzzling
