@@ -8,21 +8,30 @@ I found a cool project called NVIDIA Flex, a system supposed to simulate softbod
 I tried to make use of it, but it just didn't co-operate with Unity and it was hard for me to implement any new functionality to it.
 After realizing this, and not wanting to create a fluid simulation system from scratch, I scrapped the project :P
 
- ![barimage](/Bar/barcropped.png)  
- ![fluidphysics](/Bar/barpouring.gif)  ![bardocking](/Bar/bardocking.gif)
+![barimage](/Bar/barcropped.png)  
+![fluidphysics](/Bar/barpouring.gif)  ![bardocking](/Bar/bardocking.gif)
 
 
 ## ChopChop
 A mobile game project, about making fruit bowls :D 
 
- ![chopchopimage](/ChopChop/chopchop.png)  ![choppingaction](/ChopChop/chopping.gif)
+![chopchopimage](/ChopChop/chopchop.png)  ![choppingaction](/ChopChop/chopping.gif)
 
 
 ## Puzzling
 
- ![station](/Puzzling/station.png)  ![puzzlinggameplay](/Puzzling/puzzling.gif)
+![station](/Puzzling/station.png)  ![puzzlinggameplay](/Puzzling/puzzling.gif)
 
 ## RTS-Game
 
 ![rts](/RTS-Game/rts.png)
 ![rts](/RTS-Game/rts2.png)
+
+## Thieves and Guards
+
+![death](/Thieves and Guards/death.gif)
+
+## Top-Down Shooter
+
+![gameplay](/Top-Down Shooter/topdownshooter.gif)
+![inventory](/Top-Down Shooter/inventory.png)
