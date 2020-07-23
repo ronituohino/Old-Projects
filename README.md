@@ -1,5 +1,6 @@
 # Old-projects
-A collection of my old projects that never got finished.
+A collection of my old projects that never got finished!
+All of these projects have been made compatible with Unity 2019.4.1f1.
 
 ## Bar
 This is a project I started in 2019. The game was supposed to be a space bartending game, where you would make drinks for customers.
