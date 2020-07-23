@@ -29,9 +29,9 @@ A mobile game project, about making fruit bowls :D
 
 ## Thieves and Guards
 
-![death](/Thieves and Guards/death.gif)
+![death](/Thieves%20and%20Guards/death.gif)
 
 ## Top-Down Shooter
 
-![gameplay](/Top-Down Shooter/topdownshooter.gif)
-![inventory](/Top-Down Shooter/inventory.png)
+![gameplay](/Top-Down%20Shooter/topdownshooter.gif)
+![inventory](/Top-Down%20Shooter/inventory.png)
