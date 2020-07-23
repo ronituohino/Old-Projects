@@ -1417,11 +1417,11 @@ MonoBehaviour:
   cutLastPieceThrowingSpeed: {x: 2, y: 0, z: 0}
   unCutLastPieceThrowingSpeed: {x: 3, y: 0, z: 0}
   fruits:
-  - {fileID: 11400000, guid: 2ab297ebc24b7d04e976dafed312b93f, type: 2}
   - {fileID: 11400000, guid: 0ee97c9c0a8783945b7a8249598a7d97, type: 2}
-  - {fileID: 11400000, guid: 7135ef2b8b996444aa9af1a960778bad, type: 2}
-  - {fileID: 11400000, guid: b82ea37a22c131147ac1626d8268c6d4, type: 2}
-  - {fileID: 11400000, guid: a497b9b7ac907d942bd1f3d628e81c54, type: 2}
+  - {fileID: 11400000, guid: e87b0033b6fffa34e8cc12764dd850e2, type: 2}
+  - {fileID: 11400000, guid: 8d141a73e223f764185a8ae05b222bb9, type: 2}
+  - {fileID: 11400000, guid: 7b8949532a2033341bb522533f25c42f, type: 2}
+  - {fileID: 11400000, guid: 1613da99b38ebee40ae09dc9873d9def, type: 2}
   spawnFruits: 0
   spawnSpeed: 1
   xCuttingPlane: 0
