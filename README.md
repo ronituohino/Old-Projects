@@ -8,4 +8,4 @@ I tried to make use of it, but it just didn't co-operate with Unity and it was h
 After realizing this, and not wanting to create a fluid simulation system from scratch, I scrapped the project :P
 
  ![barimage](/Bar/barcropped.png)  
- ![fluidphysics](/Bar/barpouring2.gif)  ![bardocking](/Bar/bardocking2.gif)
+ ![fluidphysics](/Bar/barpouring.gif)  ![bardocking](/Bar/bardocking.gif)
