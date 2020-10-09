@@ -30,7 +30,12 @@ public class CameraScript : MonoBehaviour
             Vector3 camPos = cam.transform.position;
 
             Vector3 vel = Vector3.zero;
-            Vector3 targetLerp = Vector3.SmoothDamp(camPos, new Vector3(cameraTargetPosition.x, cameraTargetPosition.y, -10f), ref vel, cameraLerp * Time.deltaTime);
+            Vector3 targetLerp = Vector3.SmoothDamp(
+                camPos, 
+                new Vector3(cameraTargetPosition.x, cameraTargetPosition.y, -10f), 
+                ref vel, 
+                cameraLerp * Time.deltaTime
+            );
 
             vel = Vector3.zero;
             float cameraDistance = (targetLerp.ToVector2() - pc.rb.position).magnitude;
