@@ -16,12 +16,43 @@ After realizing this, and not wanting to create a fluid simulation system from s
 
 
 
+## Bar2D
+A mayhem co-op game. The idea was that you'd try and keep a bar up and running on a space ship which would face alien attacks, asteroids, raiders and whatnot.
+I entered the army while I had this project at works. I got some experience working with the Mirror multiplayer API.
+
+![pic](https://user-images.githubusercontent.com/42767842/123673246-ed92d500-d848-11eb-8b98-2471a0e503ea.png)
+
+
+
+## Bar3D
+Hey I'm not obsessed with bars! This was the same idea as above, but in 3d. I quickly switched to 2d to speed up development.
+
+![mood](https://user-images.githubusercontent.com/42767842/123673427-20d56400-d849-11eb-83df-8bf1ba5bc12f.png)
+
+
+
 ## ChopChop
 A mobile game project, about making fruit bowls :D 
 A similar game appeared on Google Play after I had started this project so I never finished it.
 
 ![chop](https://user-images.githubusercontent.com/42767842/123663055-b28ba400-d83e-11eb-9059-c6b08414e019.gif)
 ![chopchop](https://user-images.githubusercontent.com/42767842/123662164-def2f080-d83d-11eb-90de-fed004a69083.png)
+
+
+
+## Environmental Puzzle
+A short puzzle game with a focus on environmental design. Here is one picture about a desert scene. I quickly lost interest after making the physics for moving objects with a mouse.
+
+https://user-images.githubusercontent.com/42767842/123654596-e5ca3500-d836-11eb-8b13-f1b0fe383e1e.mp4
+
+![puzzle](https://user-images.githubusercontent.com/42767842/123649566-866a2600-d832-11eb-95df-3bcdc52999b0.png)
+
+
+
+## Mobile Roguelite
+A simple roguelite mobile game. A mix of the Darkest Dungeon and Clash Royale in pixel style!
+
+https://user-images.githubusercontent.com/42767842/123673741-8164a100-d849-11eb-96f6-51b04cfdd908.mp4
 
 
 
@@ -60,14 +91,5 @@ https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-
 ![city2](https://user-images.githubusercontent.com/42767842/123653306-b23adb00-d835-11eb-8362-f8fd31eb9d2e.png)
 ![city3](https://user-images.githubusercontent.com/42767842/123653308-b2d37180-d835-11eb-978d-b2a9fc5ed11f.png)
 ![city4](https://user-images.githubusercontent.com/42767842/123653311-b2d37180-d835-11eb-8c72-b4d4da8e0e19.png)
-
-
-
-## Environmental Puzzle
-A short puzzle game with a focus on environmental design. Here is one picture about a desert scene. I quickly lost interest after making the physics for moving objects with a mouse.
-
-https://user-images.githubusercontent.com/42767842/123654596-e5ca3500-d836-11eb-8b13-f1b0fe383e1e.mp4
-
-![puzzle](https://user-images.githubusercontent.com/42767842/123649566-866a2600-d832-11eb-95df-3bcdc52999b0.png)
 
 
