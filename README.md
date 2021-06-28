@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/42767842/123650425-435c8280-d833-11eb-
 ![station](https://user-images.githubusercontent.com/42767842/123650449-49526380-d833-11eb-97fc-226c86d7a2e1.png)
 
 ## RTS-Game
-One of my first ever projects, this was started in 2016. I worked on the map generation for a long while, but I hadn't planned on how the rest of game was supposed to work on top of it, and so I dropped it.
+One of my first ever projects, this was started in 2016. I worked on the map generation for a long while, but I hadn't planned on how the rest of game was supposed to work on top of it, and so, I dropped it.
 
 ![rts](https://user-images.githubusercontent.com/42767842/123649959-d6e18380-d832-11eb-828f-94f8ce2597f2.png)
 ![rts2](https://user-images.githubusercontent.com/42767842/123649965-d8ab4700-d832-11eb-848c-6b7ad45e2df7.png)
@@ -41,7 +41,9 @@ A very quick game project. I wanted to make a multiplayer game in which there wo
 
 
 ## Top-Down Shooter
-I wanted to create something 2D for a change. This project was supposed to be a post-apocalyptic shooting game. I was quite proud of the IK system and the physics system working together, as seen in the gif. I also made an inventory system.
+I wanted to create something 2D for a change. This project was supposed to be a post-apocalyptic shooting game. I was quite proud of the IK system and the physics system working together on the character. 
+
+I also built a procedural city generator. Here are a few images of what it can produce with different settings.
 
 https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-9b4d-371aedf38bc6.mp4
 
@@ -52,6 +54,7 @@ https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-
 ![city1](https://user-images.githubusercontent.com/42767842/123618145-983ad180-d810-11eb-8adb-46e306c0e0a4.png)
 
 ## Environmental Puzzle
+A short puzzle game with a focus on environmental design. Here is one picture about a desert scene. I quickly lost interest after making the physics for moving objects with a mouse.
 
 ![puzzle](https://user-images.githubusercontent.com/42767842/123649566-866a2600-d832-11eb-95df-3bcdc52999b0.png)
 
