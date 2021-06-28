@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0682a884489989f449c031e997ebf3b0, type: 3}
+  m_Name: CitySet
+  m_EditorClassIdentifier: 
+  sets:
+  - buildingType: 0
+    buildings:
+    - buildingName: House
+      buildingSize: {x: 15, y: 15}
+      buildingVariants:
+      - {fileID: 521537530002591231, guid: c7f8c251d02dce942ab7cea847775140, type: 3}
