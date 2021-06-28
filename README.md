@@ -38,5 +38,4 @@ A very quick game project. I wanted to make a multiplayer game in which there wo
 ## Top-Down Shooter
 I wanted to create something 2D for a change. This project was supposed to be a post-apocalyptic shooting game. I was quite proud of the IK system and the physics system working together, as seen in the gif. I also made an inventory system.
 
-![gameplay](/Top-Down%20Shooter/topdownshooter.gif)
-![inventory](/Top-Down%20Shooter/inventory.png)
+![gameplay](/Top-Down%20Shooter/peek.mp4)
