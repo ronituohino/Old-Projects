@@ -23,7 +23,8 @@ A similar game appeared on Google Play after I had started this project so I nev
 ## Puzzling
 I took a shot at creating an adventure game in 2018. My scope was waaaaaay too big!
 
-![station](/Puzzling/station.png)  ![puzzlinggameplay](/Puzzling/puzzling.gif)
+https://user-images.githubusercontent.com/42767842/123650425-435c8280-d833-11eb-8293-67d5d39749e5.mp4
+![station](https://user-images.githubusercontent.com/42767842/123650449-49526380-d833-11eb-97fc-226c86d7a2e1.png)
 
 ## RTS-Game
 One of my first ever projects, this was started in 2016. I worked on the map generation for a long while, but I hadn't planned on how the rest of game was supposed to work on top of it, and so I dropped it.
