@@ -47,11 +47,11 @@ I also built a procedural city generator. Here are a few images of what it can p
 
 https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-9b4d-371aedf38bc6.mp4
 
-![city2](https://user-images.githubusercontent.com/42767842/123618137-9709a480-d810-11eb-9454-e5e08535b761.png)
-![city4](https://user-images.githubusercontent.com/42767842/123618144-983ad180-d810-11eb-90e0-6635d5420f54.png)
+![city1](https://user-images.githubusercontent.com/42767842/123653305-b1a24480-d835-11eb-8cbf-0762eeff2d8a.png)
+![city2](https://user-images.githubusercontent.com/42767842/123653306-b23adb00-d835-11eb-8362-f8fd31eb9d2e.png)
+![city3](https://user-images.githubusercontent.com/42767842/123653308-b2d37180-d835-11eb-978d-b2a9fc5ed11f.png)
+![city4](https://user-images.githubusercontent.com/42767842/123653311-b2d37180-d835-11eb-8c72-b4d4da8e0e19.png)
 
-![city3](https://user-images.githubusercontent.com/42767842/123618143-97a23b00-d810-11eb-9723-3cc53ada918f.png)
-![city1](https://user-images.githubusercontent.com/42767842/123618145-983ad180-d810-11eb-8adb-46e306c0e0a4.png)
 
 ## Environmental Puzzle
 A short puzzle game with a focus on environmental design. Here is one picture about a desert scene. I quickly lost interest after making the physics for moving objects with a mouse.
