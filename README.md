@@ -28,8 +28,9 @@ I took a shot at creating an adventure game in 2018. My scope was waaaaaay too b
 ## RTS-Game
 One of my first ever projects, this was started in 2016. I worked on the map generation for a long while, but I hadn't planned on how the rest of game was supposed to work on top of it, and so I dropped it.
 
-![rts](/RTS-Game/rts.png)
-![rts](/RTS-Game/rts2.png)
+![rts](https://user-images.githubusercontent.com/42767842/123649959-d6e18380-d832-11eb-828f-94f8ce2597f2.png)
+![rts2](https://user-images.githubusercontent.com/42767842/123649965-d8ab4700-d832-11eb-848c-6b7ad45e2df7.png)
+
 
 ## Thieves and Guards
 A very quick game project. I wanted to make a multiplayer game in which there would be people trying to blend in with a crowd of npcs and other people trying to hunt these players. I quickly realized that this was not an original idea and so I stopped working on it. I had fun working with rigidbodies though!
