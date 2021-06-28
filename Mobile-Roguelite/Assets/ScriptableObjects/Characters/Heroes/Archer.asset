@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea48a5a41b61a5e478f439dce2efe6d3, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  classType: 1
+  sprite: {fileID: -8598098646202556098, guid: 16a5b650ce57d5b408e1d60487709e7f, type: 3}
+  data:
+    characterId: 0
+    stats:
+      maxHealth: 3
+      currentHealth: 3
+      attack: 1
+      swiftness: 5.3
+      attackSpeed: 1
+      attackRange: 6
+    attackAdvantageTime: 0
+    projectileVelocity: 15

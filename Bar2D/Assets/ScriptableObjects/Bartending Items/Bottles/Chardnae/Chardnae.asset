@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f8501194ef9c244b1a9c279cc75b15, type: 3}
+  m_Name: Chardnae
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 616530784773886197, guid: c7dff6227cf69bf4e8946117d45533f6, type: 3}
+  price: 12
+  fluidType: 3
+  fluidColor: {r: 1, g: 0.941653, b: 0.6745283, a: 0.6862745}
+  fluidCapacity: 300
+  bottleFluidPoint: {x: 0, y: 0.6, z: 0}
+  fluidPerSecond: 12

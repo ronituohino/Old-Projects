@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ca3cf3f4e2454429a957615ea1abba, type: 3}
+  m_Name: Station
+  m_EditorClassIdentifier: 
+  mapSpawnProbability: 1
+  mapIcons:
+  - {fileID: 21300000, guid: e2da8f6e7e647ba4c97223a425ae8308, type: 3}
+  sensorProfile: 40
+  triggerDistance: 15
+  triggerBehaviour: 2
+  eventName: Station Event
+  eventArgs: 0
+  habitedByFaction: {fileID: 11400000, guid: b82d865b3912b7f4eb2ec1b27c7b728b, type: 2}
+  stationObject: {fileID: 4108954450025850662, guid: 8e1beca9cb9cb7141a027d0b09ceee96,
+    type: 3}

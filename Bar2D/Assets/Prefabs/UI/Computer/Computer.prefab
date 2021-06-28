@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2402754621512002925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2402754621512002926}
+  - component: {fileID: 2402754621512002927}
+  m_Layer: 0
+  m_Name: Computer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2402754621512002926
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2402754621512002925}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2402754621512002927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2402754621512002925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a579bc15dcf0b0b45bd50e750f48f048, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  computerScreen: {fileID: 0}
+  registeredSites:
+  - siteObject: {fileID: 0}
+    url: www.gogole.com
+    headerText: Google
+  - siteObject: {fileID: 0}
+    url: www.vinum.com
+    headerText: Vinum
+  - siteObject: {fileID: 0}
+    url: www.glassware.com
+    headerText: Glassware
+  - siteObject: {fileID: 0}
+    url: www.bank.com
+    headerText: Bank
+  tabParent: {fileID: 0}
+  tabObject: {fileID: 2017114535842281584, guid: 78f5f4498d6885144852d1356c8f8deb,
+    type: 3}
+  firstTabOffset: 20
+  tabWidth: 32
+  spaceBetweenTabs: 4
+  newTabOffset: 21.5
+  tabYPosition: 3
+  newTabRect: {fileID: 0}
+  urlText: {fileID: 0}
+  urlRect: {fileID: 0}
+  blinker: {fileID: 0}
+  writeCharacterBlinkTime: 0.3
+  scrollBarHandle: {fileID: 0}
+  spawnHeightAdd: 0.5

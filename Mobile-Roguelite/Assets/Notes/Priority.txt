@@ -1,0 +1,12 @@
+UI Priority:
+
+
+
+	Map - 0
+	Party Rect - 1
+	Party Drawer - 2
+
+	Item Objects - 5
+
+	More Info Panel - 10
+
