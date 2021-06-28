@@ -34,7 +34,8 @@ One of my first ever projects, this was started in 2016. I worked on the map gen
 ## Thieves and Guards
 A very quick game project. I wanted to make a multiplayer game in which there would be people trying to blend in with a crowd of npcs and other people trying to hunt these players. I quickly realized that this was not an original idea and so I stopped working on it. I had fun working with rigidbodies though!
 
-![death](/Thieves%20and%20Guards/death.gif)
+![death](https://user-images.githubusercontent.com/42767842/123649852-c29d8680-d832-11eb-8004-d512df71e41f.gif)
+
 
 ## Top-Down Shooter
 I wanted to create something 2D for a change. This project was supposed to be a post-apocalyptic shooting game. I was quite proud of the IK system and the physics system working together, as seen in the gif. I also made an inventory system.
