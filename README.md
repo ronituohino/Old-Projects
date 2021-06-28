@@ -1,3 +1,4 @@
+
 # Old-projects
 A collection of my old projects that never got finished!
 All of these projects have been made compatible with Unity 2019.4.1f1.
@@ -38,5 +39,10 @@ A very quick game project. I wanted to make a multiplayer game in which there wo
 ## Top-Down Shooter
 I wanted to create something 2D for a change. This project was supposed to be a post-apocalyptic shooting game. I was quite proud of the IK system and the physics system working together, as seen in the gif. I also made an inventory system.
 
-![gameplay](/Top-Down%20Shooter/topdownshooter.gif)
-![inventory](/Top-Down%20Shooter/inventory.png)
+https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-9b4d-371aedf38bc6.mp4
+
+![city2](https://user-images.githubusercontent.com/42767842/123618137-9709a480-d810-11eb-9454-e5e08535b761.png)
+![city4](https://user-images.githubusercontent.com/42767842/123618144-983ad180-d810-11eb-90e0-6635d5420f54.png)
+
+![city3](https://user-images.githubusercontent.com/42767842/123618143-97a23b00-d810-11eb-9723-3cc53ada918f.png)
+![city1](https://user-images.githubusercontent.com/42767842/123618145-983ad180-d810-11eb-8adb-46e306c0e0a4.png)
