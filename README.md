@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-
 ## Environmental Puzzle
 A short puzzle game with a focus on environmental design. Here is one picture about a desert scene. I quickly lost interest after making the physics for moving objects with a mouse.
 
+https://user-images.githubusercontent.com/42767842/123654596-e5ca3500-d836-11eb-8b13-f1b0fe383e1e.mp4
+
 ![puzzle](https://user-images.githubusercontent.com/42767842/123649566-866a2600-d832-11eb-95df-3bcdc52999b0.png)
 
-https://user-images.githubusercontent.com/42767842/123654596-e5ca3500-d836-11eb-8b13-f1b0fe383e1e.mp4
+
