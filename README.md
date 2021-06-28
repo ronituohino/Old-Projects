@@ -46,3 +46,8 @@ https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-
 
 ![city3](https://user-images.githubusercontent.com/42767842/123618143-97a23b00-d810-11eb-9723-3cc53ada918f.png)
 ![city1](https://user-images.githubusercontent.com/42767842/123618145-983ad180-d810-11eb-8adb-46e306c0e0a4.png)
+
+## Environmental Puzzle
+
+![puzzle](https://user-images.githubusercontent.com/42767842/123649566-866a2600-d832-11eb-95df-3bcdc52999b0.png)
+
