@@ -16,8 +16,7 @@ After realizing this, and not wanting to create a fluid simulation system from s
 A mobile game project, about making fruit bowls :D 
 A similar game appeared on Google Play after I had started this project so I never finished it.
 
-https://user-images.githubusercontent.com/42767842/123662161-ddc1c380-d83d-11eb-8c46-b4c4af0fbbee.mp4
-
+![chop](https://user-images.githubusercontent.com/42767842/123663055-b28ba400-d83e-11eb-9059-c6b08414e019.gif)
 ![chopchop](https://user-images.githubusercontent.com/42767842/123662164-def2f080-d83d-11eb-90de-fed004a69083.png)
 
 
