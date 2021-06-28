@@ -83,9 +83,9 @@ A very quick game project. I wanted to make a multiplayer game in which there wo
 ## Top-Down Shooter
 I wanted to create something 2D for a change. This project was supposed to be a post-apocalyptic shooting game. I was quite proud of the IK system and the physics system working together on the character. 
 
-I also built a procedural city generator. Here are a few images of what it can produce with different settings.
-
 https://user-images.githubusercontent.com/42767842/123618023-7b9e9980-d810-11eb-9b4d-371aedf38bc6.mp4
+
+I also built a procedural city generator. Here are a few images of what it can produce with different settings.
 
 ![city1](https://user-images.githubusercontent.com/42767842/123653305-b1a24480-d835-11eb-8cbf-0762eeff2d8a.png)
 ![city2](https://user-images.githubusercontent.com/42767842/123653306-b23adb00-d835-11eb-8362-f8fd31eb9d2e.png)
